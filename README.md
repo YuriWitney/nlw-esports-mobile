@@ -21,12 +21,12 @@ eSports Mobile is an mobile app to see and publish ads for games. You'll be able
 To install and run this project, run the commands:
 `git clone https://github.com/YuriWitney/nlw-esports-web`
 
-- For npm users
-  `npm install`
+- For npm users:<br>
+  `npm install`<br>
   `npx expo start`
 
-- For yarn users:
-  `yarn install`
+- For yarn users:<br>
+  `yarn install`<br>
   `yarn expo start`
 
 # Instructions
